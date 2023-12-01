@@ -2,14 +2,19 @@ site_name: Industrial Ontology Training
 site_url: https://ontology_training.github.io
 theme:
     name: material
-    logo: images/nlp_logo.png
-    favicon: images/nlp_logo.png
+    logo: images/equonto_logo.svg
+    favicon: images/equonto_logo.svg
+    custom_dir: overrides 
     features: 
     - navigation.footer
 extra:
   social:
-    - icon: octicons/globe-16
+    - icon: equonto_logo
+    - icon: nlp_logo
       link: https://nlp-tlp.org/
+    - icon: fontawesome/brands/github
+      link: https://github.com/Equonto
+  
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
