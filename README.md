@@ -1,1 +1,1 @@
-# industrial-ontology-training-resources
+# Industrial Ontology Training Resources
