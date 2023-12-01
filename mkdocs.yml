@@ -1,0 +1,22 @@
+site_name: Industrial Ontology Training
+site_url: https://ontology_training.github.io
+theme:
+    name: material
+    logo: images/nlp_logo.png
+    favicon: images/nlp_logo.png
+    features: 
+    - navigation.footer
+extra:
+  social:
+    - icon: octicons/globe-16
+      link: https://nlp-tlp.org/
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+    - Home: index.md 
+    - Training Resources: existing_training.md 
+
