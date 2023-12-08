@@ -12,7 +12,9 @@ An ontology is a formal representation of knowledge that specifies concepts, rel
 
 ##### Introduction to Ontologies:
 - :fontawesome-solid-book-open-reader: [By OntoText](https://www.ontotext.com/knowledgehub/fundamentals/what-are-ontologies/)
-- :fontawesome-solid-book-open-reader: [By Enterprise Knowledge](https://enterprise-knowledge.com/breaking-it-down-what-is-an-ontology/)
+- :fontawesome-solid-book-open-reader: [By Enterprise Knowledge](https://enterprise-knowledge.
+com/breaking-it-down-what-is-an-ontology/)
+- :fontawesome-solid-book-open-reader: [By SEEK Ontologist](https://medium.com/seek-blog/ontology-whats-that-17679130aa69)
 ##### Ontologies vs. Other Data Models:
 - :fontawesome-solid-book-open-reader: [Data Standards vs. Ontologies](https://docs.google.com/document/d/e/2PACX-1vS7GsG2ShIJA25uac6PDQR3qKaU5_O_kOnI5H1SdOyQvcl2xRShFt3VOUPbMSfDw55lqsQPAZpsYO0M/pub)
 - :fontawesome-solid-book-open-reader: [Knowledge Graphs vs. Ontologies](https://enterprise-knowledge.com/whats-the-difference-between-an-ontology-and-a-knowledge-graph/)
