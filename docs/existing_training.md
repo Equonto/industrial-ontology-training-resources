@@ -81,6 +81,7 @@ A list of enterprise or industrial ontology uses.
 
 There are few ontology focused courses and most are paid. 
 
+- [OpenHPI: Knowledge Graphs - Foundations and Applications](https://open.hpi.de/courses/knowledgegraphs2023) (free)
 - [Coursera: Web of Data](https://www.coursera.org/learn/web-data/#modules) (free)
 - [Udemy: Practical Knowledge Modelling: Ontology Development 101](https://www.udemy.com/course/practical-knowledge-modelling/)
 - [Udemy: Ontologies for Business Analysis](https://www.udemy.com/course/ontologies-for-business-analysis/)
