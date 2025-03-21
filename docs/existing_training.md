@@ -75,6 +75,9 @@ A list of enterprise or industrial ontology uses.
 
 * :fontawesome-solid-book-open-reader: [RDFox: Vehicle Automation and Piloting With Rules Based-AI](https://www.oxfordsemantic.tech/vehicle-automation-and-piloting-with-rules-based-ai)
 
+##### Climate & Energy Systems
+* :fontawesome-solid-book-open-reader: [Open Energy Academy](https://openenergyplatform.github.io/academy/)
+
 ## Courses
 
 ---
